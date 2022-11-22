@@ -6,5 +6,5 @@
 
 ## Bonus
 
-- We can delete an article 
+- We can delete an article
 - Persists todoItems in localStorage
